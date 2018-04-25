@@ -1,0 +1,22 @@
+{
+  "name": "k-util",
+  "version": "0.0.1",
+  "description": "Simple Util Methods.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Leo Wang",
+    "email": "leowang721@gmail.com"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/leowang721/k-util",
+  "repository": "git://github.com/leowang721/k-util",
+  "keywords": [
+    "util",
+    "methods"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}

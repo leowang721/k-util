@@ -1,2 +1,2 @@
 # k-util
-simple util
+Simple Util Methods.
